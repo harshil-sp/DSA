@@ -1,0 +1,30 @@
+[0, 0, 0, 0]
+[0, 1, 1, 1]
+[0, 1, 1, 1]
+[0, 1, 2, 2]
+[0, 1, 2, 2]
+[0, 1, 2, 3]
+Longest Common Substring is of length (Using Tabulation) : 3
+Longest Common Substring is of length : 3
+[0, 0, 0, 0]
+[0, 1, 1, 1]
+[0, 1, 2, 2]
+[0, 1, 2, 3]
+Longest Common Substring is of length (Using Tabulation) : 3
+Longest Common Substring is of length : 3
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+Longest Common Substring is of length (Using Tabulation) : 0
+Longest Common Substring is of length : 0
+[0, 0, 0, 0, 0, 0, 0]
+[0, 0, 0, 0, 1, 1, 1]
+[0, 1, 1, 1, 1, 2, 2]
+[0, 1, 1, 2, 2, 2, 2]
+[0, 1, 1, 2, 2, 3, 3]
+[0, 1, 2, 2, 2, 3, 3]
+[0, 1, 2, 2, 3, 3, 4]
+[0, 1, 2, 2, 3, 4, 4]
+Longest Common Substring is of length (Using Tabulation) : 4
+Longest Common Substring is of length : 4
